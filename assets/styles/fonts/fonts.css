@@ -1,0 +1,9 @@
+@font-face {
+  font-family: Fira Sans;
+  font-style: normal;
+  font-size: 1rem;
+  font-weight: normal;
+  src: url("@/assets/styles/fonts/firaSans/FiraSans-Regular.ttf") format("trueType");
+}
+
+/*# sourceMappingURL=fonts.css.map */

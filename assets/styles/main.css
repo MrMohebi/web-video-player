@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {}
+* {
+  font-family: Fira Sans, system-ui, -apple-system;
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+/*# sourceMappingURL=main.css.map */
