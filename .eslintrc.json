@@ -21,7 +21,11 @@
         "eqeqeq": "warn",
         "quotes": ["warn", "double"],
         "semi": "off",
+        "camelcase": "warn",
         "no-unused-vars": "warn",
+        "no-undef": "warn",
+        "sort-imports": "warn",
+        "@typescript-eslint/no-explicit-any": "off",
         "vue/multi-word-component-names": "off"
     }
 }
